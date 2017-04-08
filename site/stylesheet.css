@@ -1,9 +1,12 @@
-p { font-style: 'Georgia';
-font-family: 'sans-serif'; 
+p { 
+font-family: 'serif'; 
 }
 h1 {color: #383535; 
 }
 
-body { background-color: #bfbf8f; 
+body { background-color: rgb(246, 255, 255); 
 }
-
+img {position: relative;
+	top: 30px;
+	border: 3px solid #7795ff;
+}
