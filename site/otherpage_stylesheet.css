@@ -8,12 +8,15 @@ img {
 
 }
 
-.header-text {text-align: center;
-			  color: white;
-			  font-family: 'Quicksand';
+.header {
+	text-align: center;
+	color: white;
+	font-family: 'Quicksand';
+
 
 }
 
-body {background-image: url("https://hja7pg.bn1.livefilestore.com/y2pI3X-Uvm3wrneyupawH8rD75_hpUv7TN15VsND5i_bUlX3QJzI4ZY3zSrQGGSR4E4gpLNiW8aYyDw3l9EO39YwmAGRS8SonNQZ4lDJZv0wwo/door.jpg?psid=1");
+body {
+	background-image: url("https://hja7pg.bn1.livefilestore.com/y2pI3X-Uvm3wrneyupawH8rD75_hpUv7TN15VsND5i_bUlX3QJzI4ZY3zSrQGGSR4E4gpLNiW8aYyDw3l9EO39YwmAGRS8SonNQZ4lDJZv0wwo/door.jpg?psid=1");
 
 }
