@@ -4,20 +4,23 @@ p {
 	text-align: center;
 	color: white; 
 }
-h1 {
+.header {
 	font-family: 'Quicksand';
-	font-size: 250%;
+	/*font-size: 250%;*/
 	text-align: center;
 	color: white; 
 }
 
 h3 {font-family: 'Quicksand';
-	font-size: 200%
+	font-size: 200%;
+}
+
+h1 {font-size: 250%;
 }
 
 body { 
 	background-color: rgb(246, 255, 255); 
-	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg")
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
 }
 
 /*img {
