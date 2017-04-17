@@ -16,6 +16,20 @@ img {
 
 }
 
+h1 {
+	font-size: 250%;
+
+}
+
+h3 {
+	font-size: 200%;
+}
+
+p {
+	font-size: 170%;
+
+}
+
 body {
 	background-image: url("http://freedomstudios.co.za/2014/wp-content/uploads/2014/10/about-us-background-dark-1200x800.jpg");
 
