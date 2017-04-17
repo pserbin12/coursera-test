@@ -4,8 +4,9 @@ p {
 	text-align: center;
 	color: white; 
 }
+
 .header {
-	font-family: 'Quicksand';
+	font-family: 'Britannic';
 	/*font-size: 250%;*/
 	text-align: center;
 	color: white; 
@@ -15,7 +16,8 @@ h3 {font-family: 'Quicksand';
 	font-size: 200%;
 }
 
-h1 {font-size: 250%;
+h1 {font-size: 650%;
+	font-style: bold;
 }
 
 body { 
