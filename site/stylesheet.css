@@ -25,6 +25,15 @@ body {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
 }
 
+.navigation ul {
+	display: inline-block;
+	height: 200px;
+	width: 300px;
+	font-size: 16px;
+	font-family: 'Britannic'
+
+}
+
 /*img {
 	margin: 1em;
 	position: relative;
