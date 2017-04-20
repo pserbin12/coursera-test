@@ -29,8 +29,10 @@ body {
 	display: inline-block;
 	height: 200px;
 	width: 300px;
-	font-size: 16px;
-	font-family: 'Britannic'
+	font-size: 30px;
+	font-family: 'Britannic';
+	color: white;
+	text-align: center;
 
 }
 
