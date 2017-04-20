@@ -26,7 +26,6 @@ body {
 }
 
 .navigation ul {
-	display: inline-block;
 	height: 200px;
 	width: 300px;
 	font-size: 30px;
@@ -38,6 +37,14 @@ body {
 	margin: 0;
 	padding: 0;
 
+}
+
+.navigation li a {
+	display: block;
+}
+
+.navigation li {
+	text-align: center;
 }
 
 /*img {
