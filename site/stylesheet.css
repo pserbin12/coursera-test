@@ -24,8 +24,15 @@ body {
 	background-color: rgb(246, 255, 255); 
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
 }
+#navlinks {
+	float: left;
+	display: block;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
 
-#ul {
+/*#ul {
 	height: 200px;
 	width: 300px;
 	font-size: 30px;
