@@ -26,13 +26,6 @@ body {
 }*/
 
 
-.navbar {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	list-style: none;
-}
-
 #navlinks {
 	float: center;
 	display: block;
@@ -44,6 +37,12 @@ body {
 	font-family: 'Britannic';
 	font-size: 170%;
 	list-style-type: none;
+}
+.navbar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	list-style: none;
 }
 
 /*#navlinks {
