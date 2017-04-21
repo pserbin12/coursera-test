@@ -21,9 +21,10 @@ h1 {font-size: 650%;
 }
 
 body { 
-	background-color: rgb(246, 255, 255); 
-	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
-}
+	background-color: #4abdac; 
+	/*background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
+}*/
+
 
 .navbar {
 	position: fixed;
@@ -32,15 +33,17 @@ body {
 	list-style: none;
 }
 
-.navbar a {
+#navlinks {
 	float: center;
 	display: block;
 	text-align: center;
-	padding: 14px 16px;
-	background-color: #333;
+	padding: 10px 12px;
+	margin: 15px; /*experimental*/
+	background-color: #f7b733;
 	color: white;
 	font-family: 'Britannic';
 	font-size: 170%;
+	list-style-type: none;
 }
 
 /*#navlinks {
