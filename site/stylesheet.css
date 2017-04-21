@@ -1,7 +1,7 @@
 p { 
 	font-size: 100%;
 	font-family: 'Quicksand', sans-serif; 
-	text-align: center;
+	text-align: right;
 	color: white; 
 }
 
@@ -24,17 +24,31 @@ body {
 	background-color: rgb(246, 255, 255); 
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
 }
-#navlinks {
+
+.navbar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.navbar a {
+	float: center;
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+/*#navlinks {
 	position: fixed;
 	bottom: 0;
 	width: 100%;
-	/*display: block;*/
+	/*display: block;
 	text-align: center;
 	font-size: 30px;
 	padding: 20px;
 	margin: 0;
 	list-style: none;
-}
+}*/
 
 /*.bottomnav {
 	height: 100%;
