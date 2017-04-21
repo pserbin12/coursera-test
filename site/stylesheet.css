@@ -22,11 +22,34 @@ h1 {font-size: 650%;
 
 body { 
 	background-color: #4abdac; 
+}
 	/*background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
 }*/
 
+ 
 
-#navlinks {
+
+/*.navbar {
+	float: center;
+	display: block;
+	text-align: center;
+	padding: 10px 12px;
+	margin: 15px; /*experimental
+	background-color: #f7b733;
+	color: white;
+	font-family: 'Britannic';
+	font-size: 170%;
+	list-style-type: none;
+}*/
+
+ .navbar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	list-style: none;
+}
+
+.navbar a {
 	float: center;
 	display: block;
 	text-align: center;
@@ -37,12 +60,6 @@ body {
 	font-family: 'Britannic';
 	font-size: 170%;
 	list-style-type: none;
-}
-.navbar {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	list-style: none;
 }
 
 /*#navlinks {
