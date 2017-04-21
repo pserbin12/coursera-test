@@ -26,10 +26,22 @@ body {
 }
 #navlinks {
 	float: left;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
 	display: block;
 	text-align: center;
 	font-size: 30px;
 	padding: 20px;
+}
+
+/*.bottomnav {
+	height: 100%;
+}*/
+
+
+html, body {
+	height: 100%;
 }
 
 /*#ul {
