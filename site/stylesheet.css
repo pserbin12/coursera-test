@@ -1,7 +1,7 @@
 p { 
 	font-size: 100%;
 	font-family: 'Quicksand', sans-serif; 
-	text-align: right;
+	text-align: left;
 	color: white; 
 }
 
@@ -29,6 +29,7 @@ body {
 	position: fixed;
 	bottom: 0;
 	width: 100%;
+	list-style: none;
 }
 
 .navbar a {
@@ -36,6 +37,8 @@ body {
 	display: block;
 	text-align: center;
 	padding: 14px 16px;
+	background-color: #333;
+	color: white;
 }
 
 /*#navlinks {
