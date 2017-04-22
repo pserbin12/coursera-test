@@ -82,7 +82,7 @@ html {
 
 .navbar a {
 	float: center;
-	display: inline-block;
+	display: block;
 	text-align: center;
 	padding: 10px 12px;
 	margin: 15px; /*experimental*/
