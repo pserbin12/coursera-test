@@ -82,16 +82,18 @@ html {
 
 .navbar a {
 	float: center;
-	display: block;
+	display: inline-block;
 	text-align: center;
 	padding: 10px 12px;
-	margin: 0; /*experimental*/
+	margin: 15px; /*experimental*/
 	background-color: #f7b733;
 	color: white;
 	font-family: 'PassionTea';
 	font-size: 170%;
 	list-style-type: none;
 }
+
+
 
 /*#navlinks {
 	position: fixed;
