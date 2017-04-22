@@ -2,7 +2,8 @@ p {
 	font-size: 100%;
 	font-family: 'Quicksand', sans-serif; 
 	text-align: left;
-	color: white; 
+	color: white;
+	opacity: 1; 
 }
 
 .header {
@@ -10,14 +11,17 @@ p {
 	/*font-size: 250%;*/
 	text-align: center;
 	color: white; 
+	opacity: 1;
 }
 
 h3 {font-family: 'PassionTea';
 	font-size: 200%;
+	opacity: 1;
 }
 
 h1 {font-size: 650%;
 	font-style: bold;
+	opacity: 1;
 }
 
 .layer { 
