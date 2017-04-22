@@ -85,7 +85,7 @@ html {
 	display: block;
 	text-align: center;
 	padding: 10px 12px;
-	margin: 15px; /*experimental*/
+	margin: 0; /*experimental*/
 	background-color: #f7b733;
 	color: white;
 	font-family: 'PassionTea';
