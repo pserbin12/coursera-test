@@ -90,7 +90,7 @@ html {
 	margin: 15px; /*experimental*/
 	background-color: #f7b733;
 	color: white;
-	font-family: 'PassionTea';
+	font-family: 'PassionTea', 'Amatic SC';
 	font-size: 170%;
 	list-style-type: none;
 }
