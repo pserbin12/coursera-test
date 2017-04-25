@@ -35,6 +35,7 @@ h1 {font-size: 650%;
 	height: 100%; 
 	opacity: 0.5;
 	z-index: 0;
+	background-size: cover;
 }
 
 
@@ -56,7 +57,7 @@ html {
 	list-style: none;
 	/*float: center;*/
 	display: inline-block;
-	/*text-align: center;*/
+	text-align: center;
 	padding: 10px 12px;
 	margin: 15px; /*experimental*/
 	background-color: #f7b733;
@@ -72,7 +73,7 @@ html {
 
 }
 
-.cute-doggos {
+/*.cute-doggos {
 	text-align: left;
 }
 
@@ -82,7 +83,7 @@ html {
 
 .about-me {
 	text-align: right;
-}
+}*/
 
 /*.navbar a {
 	float: center;
