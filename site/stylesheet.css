@@ -56,7 +56,7 @@ html {
 	list-style: none;
 	/*float: center;*/
 	display: block;
-	text-align: center;
+	/*text-align: center;*/
 	padding: 10px 12px;
 	margin: 15px; /*experimental*/
 	background-color: #f7b733;
@@ -68,8 +68,20 @@ html {
 
 .navbar a {
 	color: white;
-	word-spacing: 50px;
+	word-spacing: 20px;
 
+}
+
+.cute-doggos {
+	text-align: left;
+}
+
+.ling-facts {
+	text-align: center;
+}
+
+.about-me {
+	text-align: right;
 }
 
 /*.navbar a {
