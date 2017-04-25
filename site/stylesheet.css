@@ -66,6 +66,11 @@ html {
 	list-style-type: none;
 }
 
+.navbar a {
+	color: white;
+
+}
+
 /*.navbar a {
 	float: center;
 	display: block;
