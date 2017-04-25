@@ -55,7 +55,7 @@ html {
 	width: 100%;
 	list-style: none;
 	/*float: center;*/
-	display: block;
+	display: inline-block;
 	/*text-align: center;*/
 	padding: 10px 12px;
 	margin: 15px; /*experimental*/
