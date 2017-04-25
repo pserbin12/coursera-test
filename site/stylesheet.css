@@ -50,11 +50,11 @@ html {
 
 
  .navbar {
-	position: relative;
+	position: absolute;
 	bottom: 0px;
 	width: 100%;
 	list-style: none;
-	float: center;
+	/*float: center;*/
 	display: block;
 	text-align: center;
 	padding: 10px 12px;
