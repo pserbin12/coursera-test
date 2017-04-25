@@ -37,13 +37,7 @@ h1 {font-size: 650%;
 	z-index: 0;
 }
 
-/*.background {
-	background: url(https://image.freepik.com/free-photo/great-view-of-park-with-city-background_1203-651.jpg);
-	position: relative;
-	width: 100%;
-	height: 100%;
-	z-index: 1;
-}*/
+
 
 html {
 	background: url(https://image.freepik.com/free-photo/great-view-of-park-with-city-background_1203-651.jpg) no-repeat center center fixed;
@@ -54,26 +48,6 @@ html {
 
 }
 
-
-	
-	/*background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
-}*/
-
- 
-
-
-/*.navbar {
-	float: center;
-	display: block;
-	text-align: center;
-	padding: 10px 12px;
-	margin: 15px; /*experimental
-	background-color: #f7b733;
-	color: white;
-	font-family: 'Britannic';
-	font-size: 170%;
-	list-style-type: none;
-}*/
 
  .navbar {
 	position: relative;
@@ -97,6 +71,16 @@ html {
 
 
 
+html, body {
+	height: 100%;
+}
+
+
+
+
+
+
+
 /*#navlinks {
 	position: fixed;
 	bottom: 0;
@@ -113,10 +97,6 @@ html {
 	height: 100%;
 }*/
 
-
-html, body {
-	height: 100%;
-}
 
 /*#ul {
 	height: 200px;
@@ -150,4 +130,33 @@ html, body {
 	display: block;
 	margin: auto;
 
+}*/
+
+
+	/*background-image: url("https://s-media-cache-ak0.pinimg.com/originals/12/d6/50/12d65041ea0034328d98beb343b560bf.jpg");
+}*/
+
+ 
+
+
+/*.navbar {
+	float: center;
+	display: block;
+	text-align: center;
+	padding: 10px 12px;
+	margin: 15px; /*experimental
+	background-color: #f7b733;
+	color: white;
+	font-family: 'Britannic';
+	font-size: 170%;
+	list-style-type: none;
+}*/
+
+
+/*.background {
+	background: url(https://image.freepik.com/free-photo/great-view-of-park-with-city-background_1203-651.jpg);
+	position: relative;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
 }*/
