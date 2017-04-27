@@ -52,7 +52,7 @@ html {
 
  .navlinks {
 	position: absolute;
-	bottom: 0px;
+	top: 0px;
 	width: 100%;
 	list-style-type: none;
 	/*display: inline-block;*/
