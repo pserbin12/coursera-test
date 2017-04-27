@@ -6,3 +6,40 @@ path background
 
 
 make it so that the text goes down? make other page more like the blog example
+
+
+
+
+
+
+make the next page with the books banner and the about me thing in a box with the text over it with smaller opacity
+text on the left and pic of me on the right in a circle like the blog about building a bed 
+and then link about connect with me on the bottom 
+background of the other page should be the bright yellow color, but muted with layers (?)
+or white background with neat text and pictures
+
+
+
+
+
+
+
+
+
+
+
+
+changed to inline-block
+
+took out text-align in .navbar 
+
+
+background size for layer is cover 
+get rid of text aligns for nav divs
+bring back center for .navbar
+
+
+
+
+
+next commit:changed display back to block instead of inline bc that's what seems to make it in a list format? 
