@@ -1,4 +1,4 @@
-img {
+/*img {
 	margin: 1em;
 	position: relative;
 	top: 30px;
@@ -6,12 +6,14 @@ img {
 	display: block;
 	margin: auto;
 
-}
+}*/
+
+
 
 .header {
 	text-align: center;
 	color: white;
-	font-family: 'Quicksand';
+	font-family: 'Cabin Sketch', cursive, 'Quicksand';
 
 
 }
@@ -30,7 +32,7 @@ p {
 
 }
 
-body {
+/*body {
 	background-image: url("http://wallpaper-gallery.net/images/space-background-wallpaper/space-background-wallpaper-0.jpg");
 
-}
+}*/
