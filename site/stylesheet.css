@@ -50,30 +50,35 @@ html {
 }
 
 
- .navbar {
+ .navbar ul {
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
-	list-style: none;
-	/*float: center;*/
+	list-style-type: none;
 	/*display: inline-block;*/
 	text-align: center;
-	/*padding: 10px 12px;*/
+	padding: 10px 12px;
 	margin: 15px; /*experimental*/
 	/*background-color: #f7b733;*/
 	/*color: white;*/
 	font-family: 'PassionTea';
 	font-size: 170%;
-	list-style-type: none;
 }
 
-.navbar a {
+#cute-doggos {
+	float: left;
+	background-color: #f7b733;
+}
+
+#navlinks a {
 	color: white;
 	word-spacing: 10px;
 	display: inline-block;
 	background-color: #f7b733;
 	color: white;
 	padding: 10px 12px;
+	text-align: center;
+	padding: 14px 16px;
 }
 
 /*.cute-doggos {
