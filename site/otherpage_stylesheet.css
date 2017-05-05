@@ -18,10 +18,10 @@
 
 }
 
-.ling-navbar {
+.ling-navbar ul {
 	list-style-type: none;
 	text-align: left;
-	float: right;
+	float: left;
 	display: inline;
 }
 
