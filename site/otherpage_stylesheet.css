@@ -25,6 +25,10 @@
 	display: inline;
 }
 
+.ling-navbar {
+	font-size: 170%;
+}
+
 h1 {
 	font-size: 250%;
 
@@ -34,10 +38,10 @@ h3 {
 	font-size: 200%;
 }
 
-p {
+/*p {
 	font-size: 170%;
 
-}
+}*/
 
 body {
 	background-color: white;
