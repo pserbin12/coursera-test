@@ -18,6 +18,13 @@
 
 }
 
+.ling-navbar {
+	list-style-type: none;
+	text-align: left;
+	float: right;
+	display: inline;
+}
+
 h1 {
 	font-size: 250%;
 
