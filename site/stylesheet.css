@@ -6,12 +6,10 @@ p {
 	opacity: 1; 
 }
 
-* {
-	font-family: 'Reenie Beanie';
-}
+
 
 .header {
-	font-family: 'PassionTea';
+	font-family: 'Reenie Beanie';
 	/*font-size: 250%;*/
 	text-align: center;
 	color: white; 
@@ -20,12 +18,13 @@ p {
 	opacity: 1;
 }
 
-h3 {font-family: 'PassionTea';
+h3 {
 	font-size: 200%;
 	opacity: 1;
 }
 
-h1 {font-size: 650%;
+h1 {
+	font-size: 650%;
 	font-style: bold;
 	opacity: 1;
 }
@@ -65,7 +64,7 @@ html {
 	margin: 0; /*experimental*/
 	/*background-color: #f7b733;*/
 	/*color: white;*/
-	font-family: 'PassionTea';
+	font-family: 'Reenie Beanie';
 	font-size: 170%;
 }
 
