@@ -6,6 +6,10 @@ p {
 	opacity: 1; 
 }
 
+* {
+	font-family: 'Reenie Beanie';
+}
+
 .header {
 	font-family: 'PassionTea';
 	/*font-size: 250%;*/
