@@ -90,6 +90,9 @@ html {
 	/*padding: 14px 16px;*/
 }
 
+.container {
+	border: 4px solid #f7b733;
+}
 /*.cute-doggos {
 	text-align: left;
 }
