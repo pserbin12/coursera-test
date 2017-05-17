@@ -24,6 +24,8 @@
 	float: left;
 	display: inline;
 	line-height: 150px;
+	color: black;
+	text-decoration: none;
 }
 
 .ling-navbar {
@@ -46,4 +48,10 @@ h3 {
 
 body {
 	background-color: white;
+}
+
+.blog-post p {
+	display: table;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 150%;
 }
