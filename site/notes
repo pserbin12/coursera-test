@@ -47,3 +47,18 @@ bring back center for .navbar
 
 
 next commit:changed display back to block instead of inline bc that's what seems to make it in a list format? 
+
+
+
+5.9 
+first just .container, then .container .navlinks, then .container .navbar 
+might have to rearrange everything to look more like codeacademy 
+
+use sass lists to make everything neater? might have to create another page...
+
+
+
+
+5.12.17
+could use python and/or javascript to make the language creation app
+(create random if/else things for letters in the words, like "if this letter, then log this other letter/ipa symbol" and "ipa symbol=approximate pronunciation" keep vowels as vowels, tho)
