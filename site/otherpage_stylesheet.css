@@ -53,5 +53,9 @@ body {
 .blog-post p {
 	display: table;
 	font-family: 'Quicksand', sans-serif;
+	font-size: 50%;
+}
+
+.blogpost header {
 	font-size: 150%;
 }
