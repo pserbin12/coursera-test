@@ -32,6 +32,7 @@
 	color: black;
 	text-decoration: none;
 	font-family: 'Reenie Beanie';
+	position: relative;
 }
 
 .ling-navbar {
@@ -66,6 +67,8 @@ body {
 .post-container {
 	max-width: 800px;
 	float: right;
+	border: 1px #f1e8d9;
+	margin: 20px;
 }
 
 /*.blogpost header {
