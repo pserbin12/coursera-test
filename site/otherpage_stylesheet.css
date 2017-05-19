@@ -10,7 +10,7 @@
 
 
 
-.header {
+header {
 	text-align: center;
 	color: black;
 	font-family: 'Reenie Beanie', 'Gabriola'; 
@@ -65,10 +65,14 @@ body {
 }
 
 .post-container {
-	max-width: 800px;
+	max-width: 50%;
 	float: right;
 	border: 1px #f1e8d9;
 	margin-right: 500px;
+}
+
+.blog-post {
+
 }
 
 /*.blogpost header {

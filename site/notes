@@ -62,3 +62,8 @@ use sass lists to make everything neater? might have to create another page...
 5.12.17
 could use python and/or javascript to make the language creation app
 (create random if/else things for letters in the words, like "if this letter, then log this other letter/ipa symbol" and "ipa symbol=approximate pronunciation" keep vowels as vowels, tho)
+
+
+5.19.17 
+add banner to otherpage; add hover to navbar otherpage; add block around/margin/border to navbar (translucent) 
+maybe if i change the size of the post-container div....or the whole parent div containing post-container...?
